@@ -3,10 +3,10 @@
 ## 프로젝트 개요(미션 목표 요약)
 
 ## 터미널 조작 로그
-    1. 폴더 (생성/이동/삭제)
-        hauteville18620603@c3r1s2 repository-for-evaluation-m1 % git init
+1. 폴더 (생성/이동/삭제)
+    hauteville18620603@c3r1s2 repository-for-evaluation-m1 % git init
 
-    2. 파일 (생성/이동/삭제)
+2. 파일 (생성/이동/삭제)
 
 ## Docker 운영 및 검증 로그
     1. 설치 점검 결과
