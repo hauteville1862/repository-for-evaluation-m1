@@ -1,26 +1,22 @@
 # README
 
-## 기능 동작 검증
+## 프로젝트 개요(미션 목표 요약)
 
----
+## 터미널 조작 로그
+    1. 폴더 (생성/이동/삭제)
+        hauteville18620603@c3r1s2 repository-for-evaluation-m1 % git init
 
-### 1. 터미널에서 기본 명령어로 폴더/파일 생성, 이동, 삭제를 수행한 흔적이 있는가?
+    2. 파일 (생성/이동/삭제)
 
+## Docker 운영 및 검증 로그
+    1. 설치 점검 결과
+        (1) docker --version
+        (2) docker info
+    2. 운영 명령 실행
+        (1) docker images
+        (2) docker ps -a
+        (3) docker logs
+        (4) docker stats 
 
-
-
-### 2. 파일 권한 변경 결과가 확인되는가?
-
-3. `docker --version` 이 출력되고, Docker가 동작 가능한 상태인가?
-
-4. docker run hello-world 가 정상 실행되는가?
-
-5. 이미지/컨테이너 목록 확인 및 정리 흔적이 있는가?
-
-6. Dockerfile로 이미지 빌드가 가능한가?
-
-7. 매핑된 포트로 접속이 가능한가?
-
-8. Docker 볼륨 데이터가 컨테이너 삭제 후에도 유지되는가?
-
-9. Git 설정 및 GitHub 연동이 확인되는가?
+## 트러블슈팅 2건 이상(문제 → 원인 가설 → 확인 → 해결/대안)
+기술 문서만 읽어도 전체 수행 내용을 파악할 수 있어야 한다.
