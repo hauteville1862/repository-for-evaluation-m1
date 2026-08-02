@@ -4,9 +4,8 @@
 
 ## 터미널 조작 로그
 1. 폴더 (생성/이동/삭제)
+        hauteville18620603@c3r1s2 repository-for-evaluation-m1 % git init
 
-    hauteville18620603@c3r1s2 repository-for-evaluation-m1 % git init
-    
 
 2. 파일 (생성/이동/삭제)
 
